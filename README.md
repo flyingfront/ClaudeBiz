@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29870595/README.md)
 # Biz — The Business Operating Agent (Cowork skill)
 
 A business operating agent for Claude Cowork. Five roles in one skill: fractional COO, business consultant and coach, systems & AI advisor, program coordinator, and growth advisor — for your own business and any companies you advise.
